@@ -7,6 +7,8 @@
 	<form action="#" method="post" style="">
 		<input type="text" name="f_name" >
 		<input type="text" name="l_name" >
+		<input type="email" name="l_name" >
+		
 		<input type="submit" name="signup" value="SignUP">
 		
 	</form>
